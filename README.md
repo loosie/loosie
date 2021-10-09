@@ -8,7 +8,7 @@
 <br/>
 
 #### Vist my blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=그릿%20속의%20해빗&theme=blue)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=그릿%20속의%20해빗&theme=blue)](https://loosie.tistory.com/)
 
 
 <br/>
