@@ -1,9 +1,9 @@
 
 #### About me
 - 🇰🇷 I'm a passionate Backend Developer from korea
-- 💻 I’m currently learning java8, spring, oracle data structure, algo ...  
-- 🤔 I'm interested in macroeconomic, physics(quantum mechanics), art(especially music)
+- 💻 I’m currently learning java8, spring, algo, oracle data structure ...  
 - ⭐️ I always have an attitude of Challenge, Grit and Good Habit, Growth(metacognition)
+- 🤔 I'm interested in macroeconomic, physics(quantum mechanics), art(especially music)
 
 <br/>
 
@@ -15,7 +15,9 @@
 
 <br/>
 
-🔑 [readme!](https://www.notion.so/loosie/loosie-d749e8c39d6244709e1274a5e69d83b6)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=loosie999)](https://solved.ac/loosie999)
+
 
 <!--
 **loosie/loosie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
