@@ -1,7 +1,7 @@
 
 #### About me
 - 🇰🇷 I'm a passionate Backend Developer from korea
-- 💻 I’m currently learning java8, spring, algo, database(rds) ...  
+- 💻 I’m currently learning java, spring, oop, database(rds) ...  
 - ⭐️ I always have an attitude of Challenge, Grit and Good Habit, Growth(metacognition)
 - 🤔 I'm interested in macroeconomic, physics, art(especially music).
 
