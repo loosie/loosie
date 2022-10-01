@@ -1,9 +1,10 @@
 
 #### About me
 - 🇰🇷 I'm a passionate Backend Developer from korea
-- 💻 I’m currently learning java, spring, oop, database(rds) ...  
+- 💻 I’m currently learning java, spring, rds(mysql, maria), ruby, rails, nosql(mongo, arango) ...  
+- 🌌 making dots one by one ... then connecting the dots
 - ⭐️ I always have an attitude of Challenge, Grit and Good Habit, Growth(metacognition)
-- 🤔 I'm interested in macroeconomic, physics, art(especially music).
+- 🤔 I'm interested in data, macroeconomic, physics, art(especially music)
 
 <br/>
 
