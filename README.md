@@ -1,7 +1,9 @@
 
 #### About me
 - 🇰🇷 I'm a passionate Backend Developer from korea
-- 💻 I’m currently learning java, spring, rds(mysql, maria), ruby, rails, nosql(mongo, arango) ...  
+- 💻 Previously, I studied Java, Spring.
+- 💻 I'm using magic Ruby at work. 
+- 💻 as you know, I naturally became interested in Elixir.
 - 🌌 making dots one by one ... then connecting the dots
 - ⭐️ I always have an attitude of Challenge, Grit and Good Habit, Growth(metacognition)
 - 🤔 I'm interested in data, macroeconomic, physics, art(especially music)
