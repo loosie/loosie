@@ -6,7 +6,7 @@
 - 💻 as you know, I naturally became interested in Elixir.
 - 🌌 making dots one by one ... then connecting the dots
 - ⭐️ I always have an attitude of Challenge, Grit and Good Habit, Growth(metacognition)
-- 🤔 I'm interested in data, macroeconomic, physics, art(especially music)
+- 🤔 I like to find the essence of flow. everything in nature.
 
 <br/>
 
