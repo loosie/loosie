@@ -13,7 +13,7 @@
 #### Vist my blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=그릿%20속의%20해빗&theme=blue)](https://loosie.tistory.com/)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=loosie&postId=797&theme=santorini)](https://loosie.tistory.com/877)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=loosie&postId=877&theme=santorini)](https://loosie.tistory.com/877)
 
 
 <br/>
