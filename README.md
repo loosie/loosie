@@ -1,9 +1,9 @@
 
 #### About me
 - 🇰🇷 I'm a passionate Backend Developer from korea
-- 💻 Previously, I studied Java, Spring.
-- 💻 I'm using magic Ruby at work. 
-- 💻 as you know, I naturally became interested in Elixir.
+- 💻 Previously, I studied Web Development(Java, Spring, RubyOnRails, Mysql, ...)
+- 💻 Lately, I've been diving deep into distributed systems, WebAssembly (Wasm), and the intricacies of databases.
+- 🌐 Beyond traditional backend interests, I've also developed a passion for blockchain technology
 - 🌌 making dots one by one ... then connecting the dots
 - ⭐️ I always have an attitude of Challenge, Grit and Good Habit, Growth(metacognition)
 - 🤔 I like to find the essence of flow. everything in nature.
