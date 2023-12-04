@@ -1,6 +1,6 @@
 
 #### About me
-- 🇰🇷 I'm a passionate Backend Developer from korea
+- 🇰🇷 I'm a passionate Software Engineer from korea
 - 💻 Previously, I studied Web Development(Java, Spring, RubyOnRails, Mysql, ...)
 - 🌐 Beyond traditional backend interests, I've also developed a passion for blockchain technology
 - 💻 Lately, I've been diving deep into distributed systems, wasm, consensus and blockchain.
