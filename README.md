@@ -2,8 +2,8 @@
 #### About me
 - 🇰🇷 I'm a passionate Backend Developer from korea
 - 💻 Previously, I studied Web Development(Java, Spring, RubyOnRails, Mysql, ...)
-- 💻 Lately, I've been diving deep into distributed systems, WebAssembly (Wasm), and the intricacies of databases.
 - 🌐 Beyond traditional backend interests, I've also developed a passion for blockchain technology
+- 💻 Lately, I've been diving deep into distributed systems, wasm, consensus and blockchain.
 - 🌌 making dots one by one ... then connecting the dots
 - ⭐️ I always have an attitude of Challenge, Grit and Good Habit, Growth(metacognition)
 - 🤔 I like to find the essence of flow. everything in nature.
@@ -13,7 +13,7 @@
 #### Vist my blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=그릿%20속의%20해빗&theme=blue)](https://loosie.tistory.com/)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=loosie&postId=877&theme=santorini)](https://loosie.tistory.com/877)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=loosie&postId=895&theme=santorini)](https://loosie.tistory.com/895)
 
 
 <br/>
